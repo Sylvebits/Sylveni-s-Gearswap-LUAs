@@ -1,0 +1,5750 @@
+<hotbar>
+    <geoenf>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_4>
+        <name>GEOENF</name>
+        <hotbar_1>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_2>
+
+    </geoenf>
+    <drkenf>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_4>
+        <name>DRKENF</name>
+        <hotbar_1>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_2></slot_2>
+            <slot_7>
+                <target>st</target>
+                <type>ma</type>
+                <action>Sleep II</action>
+                <alias>Sleep II</alias>
+
+            </slot_7>
+            <slot_6>
+                <target>st</target>
+                <type>ma</type>
+                <action>Sleep</action>
+                <alias>Sleep</alias>
+
+            </slot_6>
+            <slot_1></slot_1>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5>
+                <target>st</target>
+                <type>ma</type>
+                <action>Bio II</action>
+                <alias>Bio II</alias>
+
+            </slot_5>
+            <slot_8>
+                <target>st</target>
+                <type>ma</type>
+                <action>Break</action>
+                <alias>Break</alias>
+
+            </slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_2>
+
+    </drkenf>
+    <magic>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_4>
+        <name>Magic</name>
+        <hotbar_1>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_1>
+                <target>t</target>
+                <type>ma</type>
+                <action>Poison</action>
+                <alias>Poison</alias>
+
+            </slot_1>
+            <slot_6>
+                <type>ex</type>
+                <action>xb bar DRKENF</action>
+                <target>target</target>
+                <alias>Enfeebles</alias>
+                <icon>WHME</icon>
+
+            </slot_6>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_9></slot_9>
+            <slot_7>
+                <type>ex</type>
+                <action>xb bar Drains</action>
+                <target>target</target>
+                <alias>Drains</alias>
+                <icon>WHME</icon>
+
+            </slot_7>
+            <slot_8>
+                <type>ex</type>
+                <action>xb bar Absorbs</action>
+                <target>target</target>
+                <alias>Absorbs</alias>
+                <icon>WHME</icon>
+
+            </slot_8>
+            <slot_5>
+                <type>ex</type>
+                <action>xb bar elemental</action>
+                <target>target</target>
+                <alias>Elemental</alias>
+                <icon>WHME</icon>
+
+            </slot_5>
+            <slot_3>
+                <target>t</target>
+                <type>ma</type>
+                <action>Poisonga</action>
+                <alias>Poisonga</alias>
+
+            </slot_3>
+
+        </hotbar_2>
+
+    </magic>
+    <whmja>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_4>
+        <name>WHMJA</name>
+        <hotbar_1>
+            <slot_2>
+                <icon>abilities/afflatus-solace</icon>
+                <type>ex</type>
+                <action>exec Solace.txt</action>
+                <alias>Solace</alias>
+
+            </slot_2>
+            <slot_7>
+                <icon>abilities/call-wyvern</icon>
+                <type>ex</type>
+                <action>exec Sacrosanctity.txt</action>
+                <alias>Sacrosanctity</alias>
+
+            </slot_7>
+            <slot_6>
+                <icon>abilities/call-wyvern</icon>
+                <type>ex</type>
+                <action>exec Accession.txt</action>
+                <alias>Accession</alias>
+
+            </slot_6>
+            <slot_3>
+                <icon>abilities/call-wyvern</icon>
+                <type>ex</type>
+                <action>exec Penury.txt</action>
+                <alias>Penury</alias>
+
+            </slot_3>
+            <slot_4>
+                <icon>abilities/light-arts</icon>
+                <type>ex</type>
+                <action>exec Lightarts.txt</action>
+                <alias>Light arts</alias>
+
+            </slot_4>
+            <slot_5>
+                <icon>abilities/call-wyvern</icon>
+                <type>ex</type>
+                <action>exec Caress.txt</action>
+                <alias>Divine Caress</alias>
+
+            </slot_5>
+            <slot_8>
+                <icon>abilities/call-wyvern</icon>
+                <type>ex</type>
+                <action>exec DivineSeal.txt</action>
+                <alias>DivineSeal</alias>
+
+            </slot_8>
+            <slot_9>
+                <icon>abilities/call-wyvern</icon>
+                <type>ex</type>
+                <action>exec Celerity.txt</action>
+                <alias>Celarity</alias>
+
+            </slot_9>
+            <slot_1>
+                <icon>abilities/call-wyvern</icon>
+                <type>ex</type>
+                <action>exec Celerity.txt</action>
+                <alias>Celarity</alias>
+
+            </slot_1>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_3>
+                <icon>abilities/arise</icon>
+                <type>ex</type>
+                <action>exec RR4.txt</action>
+                <alias>Reraise IV</alias>
+
+            </slot_3>
+            <slot_6>
+                <icon>abilities/dark-arts</icon>
+                <type>ex</type>
+                <action>exec DarkArts.txt</action>
+                <alias>DarkArts</alias>
+
+            </slot_6>
+            <slot_2>
+                <icon>abilities/call-wyvern</icon>
+                <type>ex</type>
+                <action>exec Misery.txt</action>
+                <alias>Misery</alias>
+
+            </slot_2>
+            <slot_9></slot_9>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_1>
+                <icon>abilities/dark-arts</icon>
+                <type>ex</type>
+                <action>exec Sublimation.txt</action>
+                <alias>Sublimation</alias>
+
+            </slot_1>
+
+        </hotbar_2>
+
+    </whmja>
+    <sws>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_4>
+        <name>SWS</name>
+        <hotbar_1>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_2></slot_2>
+            <slot_7>
+                <target>t</target>
+                <type>ws</type>
+                <action>Sanguine Blade</action>
+                <alias>Sanguine Blade</alias>
+
+            </slot_7>
+            <slot_6>
+                <target>t</target>
+                <type>ws</type>
+                <action>Savage Blade</action>
+                <alias>Savage Blade</alias>
+
+            </slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5>
+                <target>t</target>
+                <type>ws</type>
+                <action>Flat Blade</action>
+                <alias>Flat Blade</alias>
+
+            </slot_5>
+            <slot_8>
+                <target>t</target>
+                <type>ws</type>
+                <action>Vorpal Blade</action>
+                <alias>Vorpal Blade</alias>
+
+            </slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_2>
+
+    </sws>
+    <geoelest>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_4>
+        <name>GEOELEST</name>
+        <hotbar_1>
+            <slot_9></slot_9>
+            <slot_7>
+                <icon>Stone</icon>
+                <type>ex</type>
+                <action>exec GEOSTStone1.txt</action>
+                <alias>D-Stone</alias>
+
+            </slot_7>
+            <slot_6>
+                <icon>Thunder</icon>
+                <type>ex</type>
+                <action>exec GEOSTthunder1.txt</action>
+                <alias>L-Thunder</alias>
+
+            </slot_6>
+            <slot_3>
+                <icon>fire</icon>
+                <type>ex</type>
+                <action>exec GEOSTfire1.txt</action>
+                <alias>L-Fire</alias>
+
+            </slot_3>
+            <slot_4>
+                <icon>Water</icon>
+                <type>ex</type>
+                <action>exec GEOSTwater1.txt</action>
+                <alias>D-Water</alias>
+
+            </slot_4>
+            <slot_5>
+                <icon>blizzard</icon>
+                <type>ex</type>
+                <action>exec GEOSTICE1.txt</action>
+                <alias>D-Ice</alias>
+
+            </slot_5>
+            <slot_8>
+                <icon>Aero</icon>
+                <type>ex</type>
+                <action>exec GEOSTaero1.txt</action>
+                <alias>L-Aero</alias>
+
+            </slot_8>
+            <slot_2></slot_2>
+            <slot_1>
+                <type>ex</type>
+                <action>xb bar GEOELEST2</action>
+                <target>target</target>
+                <alias>High-Tier</alias>
+                <icon>autoattack</icon>
+
+            </slot_1>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_2>
+
+    </geoelest>
+    <extras>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_4>
+        <name>Extras</name>
+        <hotbar_1>
+            <slot_2></slot_2>
+            <slot_7>
+                <icon>blue</icon>
+                <type>ex</type>
+                <action>exec TargetbuffC.txt</action>
+                <alias>Piani Carols</alias>
+
+            </slot_7>
+            <slot_6>
+                <icon>songs/Minuet</icon>
+                <type>ex</type>
+                <action>exec FaeSamba.txt</action>
+                <alias>Haste Samba</alias>
+
+            </slot_6>
+            <slot_3>
+                <icon>abilities/call-wyvern</icon>
+                <type>ex</type>
+                <action>exec Haste.txt</action>
+                <alias>Haste</alias>
+
+            </slot_3>
+            <slot_4>
+                <icon>songs/Minuet</icon>
+                <type>ex</type>
+                <action>exec FBRD-Hunter.txt</action>
+                <alias>Hunter</alias>
+
+            </slot_4>
+            <slot_5></slot_5>
+            <slot_8>
+                <type>ex</type>
+                <action>xb bar Carols</action>
+                <target>target</target>
+                <alias>Carols</alias>
+                <icon>blue</icon>
+
+            </slot_8>
+            <slot_9></slot_9>
+            <slot_1>
+                <icon>songs/Minuet</icon>
+                <type>ex</type>
+                <action>exec FBRD-Archer.txt</action>
+                <alias>Archer</alias>
+
+            </slot_1>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_2>
+                <icon>songs/Minuet</icon>
+                <type>ex</type>
+                <action>exec FBRD-Schz.txt</action>
+                <alias>Schezro</alias>
+
+            </slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_2>
+
+    </extras>
+    <geoeleaoe>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_4>
+        <name>GEOELEAOE</name>
+        <hotbar_1>
+            <slot_9></slot_9>
+            <slot_7>
+                <icon>Stone</icon>
+                <type>ex</type>
+                <action>exec GEOAOEStone1.txt</action>
+                <alias>D-Stone</alias>
+
+            </slot_7>
+            <slot_6>
+                <icon>Thunder</icon>
+                <type>ex</type>
+                <action>exec GEOAOEThunder1.txt</action>
+                <alias>D-Thunder</alias>
+
+            </slot_6>
+            <slot_3>
+                <icon>fire</icon>
+                <type>ex</type>
+                <action>exec GEOAOEFire1.txt</action>
+                <alias>L-fire</alias>
+
+            </slot_3>
+            <slot_4>
+                <icon>Water</icon>
+                <type>ex</type>
+                <action>exec GEOAOEwater1.txt</action>
+                <alias>D-Water</alias>
+
+            </slot_4>
+            <slot_5>
+                <icon>Ice</icon>
+                <type>ex</type>
+                <action>exec GEOAOEIce1.txt</action>
+                <alias>D-Ice</alias>
+
+            </slot_5>
+            <slot_8>
+                <icon>Aero</icon>
+                <type>ex</type>
+                <action>exec GEOAOEaero1.txt</action>
+                <alias>L-Aero</alias>
+
+            </slot_8>
+            <slot_2></slot_2>
+            <slot_1>
+                <type>ex</type>
+                <action>xb bar GEOELEAOE2</action>
+                <target>target</target>
+                <alias>High-Tier</alias>
+                <icon>autoattack</icon>
+
+            </slot_1>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_2>
+
+    </geoeleaoe>
+    <rolls>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_4>
+        <name>Rolls</name>
+        <hotbar_1>
+            <slot_2>
+                <icon>songs/Ballad</icon>
+                <type>ex</type>
+                <action>exec ECORDOUBLEUP.txt</action>
+                <alias>Double-up</alias>
+
+            </slot_2>
+            <slot_7>
+                <icon>songs/Ballad</icon>
+                <type>ex</type>
+                <action>exec ECORSAM.txt</action>
+                <alias>SAM Roll</alias>
+
+            </slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4>
+                <icon>songs/Ballad</icon>
+                <type>ex</type>
+                <action>exec ECORSNAKE.txt</action>
+                <alias>Snake eye</alias>
+
+            </slot_4>
+            <slot_5>
+                <icon>songs/Ballad</icon>
+                <type>ex</type>
+                <action>exec ECORCHAOS.txt</action>
+                <alias>Chaos Roll</alias>
+
+            </slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1>
+                <icon>songs/Ballad</icon>
+                <type>ex</type>
+                <action>exec ECORCrooked.txt</action>
+                <alias>Crooked Cards</alias>
+
+            </slot_1>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_9></slot_9>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_2></slot_2>
+            <slot_1></slot_1>
+
+        </hotbar_2>
+
+    </rolls>
+    <medicines>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_4>
+        <name>Medicines</name>
+        <hotbar_1>
+            <slot_2></slot_2>
+            <slot_7>
+                <icon>Medi</icon>
+                <type>ex</type>
+                <action>exec Remedy.txt</action>
+                <alias>Remedy</alias>
+
+            </slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5>
+                <icon>Medi</icon>
+                <type>ex</type>
+                <action>exec Echodrop.txt</action>
+                <alias>Echo Drop</alias>
+
+            </slot_5>
+            <slot_8>
+                <icon>Medi</icon>
+                <type>ex</type>
+                <action>exec Holywater.txt</action>
+                <alias>Holy Water</alias>
+
+            </slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_2>
+
+    </medicines>
+    <swaps>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_4>
+        <name>Swaps</name>
+        <hotbar_1>
+            <slot_9></slot_9>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_9></slot_9>
+            <slot_7>
+                <type>ex</type>
+                <action>gs c set WeaponSet Caladbolg</action>
+                <target>target</target>
+                <alias>Caladbolg</alias>
+                <icon>GSDD</icon>
+
+            </slot_7>
+            <slot_6>
+                <type>ex</type>
+                <action>gs c set WeaponSet Crep-scythe</action>
+                <target>target</target>
+                <alias>Crep. Scythe</alias>
+                <icon>Scy</icon>
+
+            </slot_6>
+            <slot_3>
+                <icon>Sword</icon>
+                <type>ex</type>
+                <action>gs c set Offensemode GSACC</action>
+                <alias>Greatsword ACC</alias>
+
+            </slot_3>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5>
+                <type>ex</type>
+                <action>gs c set WeaponSet Apoc</action>
+                <target>target</target>
+                <alias>Apocalypse</alias>
+                <icon>scy</icon>
+
+            </slot_5>
+            <slot_8>
+                <type>ex</type>
+                <action>gs c set WeaponSet Lycurgos</action>
+                <target>target</target>
+                <alias>Lycurgos</alias>
+                <icon>GA</icon>
+
+            </slot_8>
+            <slot_2>
+                <icon>Sword</icon>
+                <type>ex</type>
+                <action>gs c set Offensemode Normal</action>
+                <alias>General TP</alias>
+
+            </slot_2>
+            <slot_1>
+                <icon>Sword</icon>
+                <type>ex</type>
+                <action>gs c set Offensemode ScytheACC</action>
+                <alias>Scythe ACC</alias>
+
+            </slot_1>
+
+        </hotbar_2>
+
+    </swaps>
+    <barspells>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1>
+                <type>ex</type>
+                <action>xb bar Clease</action>
+                <target>target</target>
+                <alias>Clensing Magic</alias>
+                <icon>WHMC</icon>
+
+            </slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_4>
+        <name>Barspells</name>
+        <hotbar_1>
+            <slot_2></slot_2>
+            <slot_7>
+                <icon>abilities/call-wyvern</icon>
+                <type>ex</type>
+                <action>exec Thunder.txt</action>
+                <alias>Thunder</alias>
+
+            </slot_7>
+            <slot_6></slot_6>
+            <slot_1>
+                <icon>abilities/call-wyvern</icon>
+                <type>ex</type>
+                <action>exec Water.txt</action>
+                <alias>Water</alias>
+
+            </slot_1>
+            <slot_4>
+                <icon>abilities/call-wyvern</icon>
+                <type>ex</type>
+                <action>exec Fira.txt</action>
+                <alias>Fira</alias>
+
+            </slot_4>
+            <slot_5>
+                <icon>abilities/call-wyvern</icon>
+                <type>ex</type>
+                <action>exec Wind.txt</action>
+                <alias>Wind</alias>
+
+            </slot_5>
+            <slot_8>
+                <icon>abilities/call-wyvern</icon>
+                <type>ex</type>
+                <action>exec Stone.txt</action>
+                <alias>Stone</alias>
+
+            </slot_8>
+            <slot_9></slot_9>
+            <slot_3>
+                <icon>abilities/call-wyvern</icon>
+                <type>ex</type>
+                <action>exec Ice.txt</action>
+                <alias>Ice</alias>
+
+            </slot_3>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_2>
+                <target>me</target>
+                <type>ma</type>
+                <action>Barvira</action>
+                <alias>Barvira</alias>
+
+            </slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1>
+                <target>me</target>
+                <type>ma</type>
+                <action>Barpoisonra</action>
+                <alias>Barpoisonra</alias>
+
+            </slot_1>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5>
+                <target>me</target>
+                <type>ma</type>
+                <action>Barsilencera</action>
+                <alias>Barsilencera</alias>
+
+            </slot_5>
+            <slot_8>
+                <target>me</target>
+                <type>ma</type>
+                <action>Barpetra</action>
+                <alias>Barpetra</alias>
+
+            </slot_8>
+            <slot_9></slot_9>
+            <slot_3>
+                <target>me</target>
+                <type>ma</type>
+                <action>Barparalyzra</action>
+                <alias>Barparalyzra</alias>
+
+            </slot_3>
+
+        </hotbar_2>
+
+    </barspells>
+    <brdenfeebles>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_4>
+        <name>BRDEnfeebles</name>
+        <hotbar_1>
+            <slot_2></slot_2>
+            <slot_7>
+                <icon>songs/Lullaby</icon>
+                <type>ex</type>
+                <action>exec FoeII.txt</action>
+                <alias>Foe II</alias>
+
+            </slot_7>
+            <slot_6>
+                <icon>songs/Lullaby</icon>
+                <type>ex</type>
+                <action>exec Horde.txt</action>
+                <alias>Horde I</alias>
+
+            </slot_6>
+            <slot_1>
+                <type>ex</type>
+                <action>xb bar threnody</action>
+                <target>target</target>
+                <alias>Threnodies</alias>
+                <icon>Debuff</icon>
+
+            </slot_1>
+            <slot_4>
+                <icon>songs/Lullaby</icon>
+                <type>ex</type>
+                <action>exec Carnage.txt</action>
+                <alias>Elegy</alias>
+
+            </slot_4>
+            <slot_5>
+                <icon>songs/Lullaby</icon>
+                <type>ex</type>
+                <action>exec HordeI.txt</action>
+                <alias>Horde II</alias>
+
+            </slot_5>
+            <slot_8>
+                <icon>songs/Lullaby</icon>
+                <type>ex</type>
+                <action>exec Foe.txt</action>
+                <alias>Foe I</alias>
+
+            </slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6>
+                <icon>songs/Lullaby</icon>
+                <type>ex</type>
+                <action>exec Finale.txt</action>
+                <alias>Finale</alias>
+
+            </slot_6>
+            <slot_1></slot_1>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_2>
+
+    </brdenfeebles>
+    <whmalt>
+        <hotbar_4>
+            <slot_6>
+                <icon>white-magic/Curaga</icon>
+                <type>ex</type>
+                <action>exec Antidote.txt</action>
+                <alias>Antidote</alias>
+
+            </slot_6>
+            <slot_9></slot_9>
+            <slot_7>
+                <icon>white-magic/Curaga</icon>
+                <type>ex</type>
+                <action>exec Echo.txt</action>
+                <alias>Echo Drops</alias>
+
+            </slot_7>
+            <slot_8>
+                <target>me</target>
+                <type>ja</type>
+                <action>Third Eye</action>
+                <alias>Third Eye</alias>
+
+            </slot_8>
+            <slot_5>
+                <target>me</target>
+                <type>ja</type>
+                <action>Seigan</action>
+                <alias>Seigan</alias>
+
+            </slot_5>
+            <slot_3>
+                <icon>Shield</icon>
+                <type>ex</type>
+                <action>gs c toggledt</action>
+                <alias>-Damage Taken</alias>
+
+            </slot_3>
+
+        </hotbar_4>
+        <name>WHMALT</name>
+        <hotbar_1>
+            <slot_2>
+                <type>ex</type>
+                <action>xb bar WHMBuffs</action>
+                <target>target</target>
+                <alias>WHM Buffs</alias>
+                <icon>WHMB</icon>
+
+            </slot_2>
+            <slot_7>
+                <type>ex</type>
+                <action>exec Targetcleanse.txt</action>
+                <target>target</target>
+                <alias>Clensing Magic</alias>
+                <icon>WHMC</icon>
+
+            </slot_7>
+            <slot_6>
+                <type>ex</type>
+                <action>exec Targetcuresw.txt</action>
+                <target>target</target>
+                <alias>Cure Magic</alias>
+                <icon>WHMH</icon>
+
+            </slot_6>
+            <slot_1>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_1>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Barspells</action>
+                <target>target</target>
+                <alias>Barspells</alias>
+                <icon>blue</icon>
+
+            </slot_4>
+            <slot_5>
+                <type>ex</type>
+                <action>xb bar WHMJA</action>
+                <target>target</target>
+                <alias>WHM Abilities</alias>
+                <icon>WHMA</icon>
+
+            </slot_5>
+            <slot_8>
+                <type>ex</type>
+                <action>exec Targetdebuff.txt</action>
+                <target>target</target>
+                <alias>WHM Enfeebles</alias>
+                <icon>WHME</icon>
+
+            </slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_9></slot_9>
+            <slot_7>
+                <target>me</target>
+                <type>ja</type>
+                <action>Dark Seal</action>
+                <alias>Dark Seal</alias>
+
+            </slot_7>
+            <slot_6>
+                <target>t</target>
+                <type>ma</type>
+                <action>Drain III</action>
+                <alias>Drain III</alias>
+
+            </slot_6>
+            <slot_1>
+                <target>me</target>
+                <type>ma</type>
+                <action>Dread Spikes</action>
+                <alias>Dread Spikes</alias>
+
+            </slot_1>
+            <slot_4>
+                <target>me</target>
+                <type>ja</type>
+                <action>Hasso</action>
+                <alias>Hasso</alias>
+
+            </slot_4>
+            <slot_5>
+                <target>me</target>
+                <type>ja</type>
+                <action>Nether Void</action>
+                <alias>Nether Void</alias>
+
+            </slot_5>
+            <slot_8>
+                <target>me</target>
+                <type>ja</type>
+                <action>Last Resort</action>
+                <alias>Last Resort</alias>
+
+            </slot_8>
+            <slot_2>
+                <target>me</target>
+                <type>ma</type>
+                <action>Endark II</action>
+                <alias>Endark II</alias>
+
+            </slot_2>
+            <slot_3>
+                <target>me</target>
+                <type>ja</type>
+                <action>Scarlet Delirium</action>
+                <alias>Scarlet Delirium</alias>
+
+            </slot_3>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_9></slot_9>
+            <slot_7>
+                <type>ex</type>
+                <action>xb bar WSlist</action>
+                <target>target</target>
+                <alias>WeaponSkills</alias>
+                <icon>GS</icon>
+
+            </slot_7>
+            <slot_6>
+                <target>t</target>
+                <type>ma</type>
+                <action>Poison</action>
+                <alias>Poison</alias>
+
+            </slot_6>
+            <slot_1>
+                <type>ex</type>
+                <action>xb bar Swaps</action>
+                <target>target</target>
+                <alias>Equipment</alias>
+                <icon>Swap</icon>
+
+            </slot_1>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Magic</action>
+                <target>target</target>
+                <alias>Magic</alias>
+                <icon>WHME</icon>
+
+            </slot_4>
+            <slot_5>
+                <target>t</target>
+                <type>ma</type>
+                <action>Poisonga</action>
+                <alias>Poisonga</alias>
+
+            </slot_5>
+            <slot_8>
+                <type>ex</type>
+                <action>xb bar JAs</action>
+                <target>target</target>
+                <alias>Job Abilities</alias>
+                <icon>Dice</icon>
+
+            </slot_8>
+            <slot_2>
+                <target>t</target>
+                <type>ja</type>
+                <action>Weapon Bash</action>
+                <alias>Weapon Bash</alias>
+
+            </slot_2>
+            <slot_3>
+                <target>t</target>
+                <type>ma</type>
+                <action>Stun</action>
+                <alias>Stun</alias>
+
+            </slot_3>
+
+        </hotbar_2>
+
+    </whmalt>
+    <partybuffs>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_4>
+        <name>Partybuffs</name>
+        <hotbar_1>
+            <slot_9></slot_9>
+            <slot_7>
+                <icon>songs/Minuet</icon>
+                <type>ex</type>
+                <action>exec FBRD-Minuet5.txt</action>
+                <alias>Minuet V</alias>
+
+            </slot_7>
+            <slot_6>
+                <icon>songs/march</icon>
+                <type>ex</type>
+                <action>exec FBRD-Victory.txt</action>
+                <alias>Victory</alias>
+
+            </slot_6>
+            <slot_3>
+                <icon>songs/Minuet</icon>
+                <type>ex</type>
+                <action>exec FBRD-Blade.txt</action>
+                <alias>Blade</alias>
+
+            </slot_3>
+            <slot_4>
+                <icon>songs/Minuet</icon>
+                <type>ex</type>
+                <action>exec FBRD-Sword.txt</action>
+                <alias>Sword</alias>
+
+            </slot_4>
+            <slot_5>
+                <icon>songs/march</icon>
+                <type>ex</type>
+                <action>exec FBRD-Advance.txt</action>
+                <alias>Advancing</alias>
+
+            </slot_5>
+            <slot_8>
+                <icon>songs/Minuet</icon>
+                <type>ex</type>
+                <action>exec FBRD-Minuet4.txt</action>
+                <alias>Minuet IV</alias>
+
+            </slot_8>
+            <slot_2>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>minne</alias>
+                <icon>autoattack</icon>
+
+            </slot_2>
+            <slot_1>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>minne</alias>
+                <icon>autoattack</icon>
+
+            </slot_1>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_9></slot_9>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_2></slot_2>
+            <slot_1></slot_1>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_9></slot_9>
+            <slot_7>
+                <icon>songs/Ballad</icon>
+                <type>ex</type>
+                <action>exec BalladIII.txt</action>
+                <alias>Ballad III</alias>
+
+            </slot_7>
+            <slot_6>
+                <icon>songs/Speed</icon>
+                <type>ex</type>
+                <action>exec FBRD-Speed.txt</action>
+                <alias>Mazurka</alias>
+
+            </slot_6>
+            <slot_3>
+                <icon>songs/Dummy</icon>
+                <type>ex</type>
+                <action>exec FBRD-DummyIII.txt</action>
+                <alias>Dummy III</alias>
+
+            </slot_3>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5>
+                <icon>songs/Ballad</icon>
+                <type>ex</type>
+                <action>exec Ballad.txt</action>
+                <alias>Ballad</alias>
+
+            </slot_5>
+            <slot_8>
+                <icon>songs/Ballad</icon>
+                <type>ex</type>
+                <action>exec BalladII.txt</action>
+                <alias>Ballad II</alias>
+
+            </slot_8>
+            <slot_2>
+                <icon>songs/Dummy</icon>
+                <type>ex</type>
+                <action>exec FBRD-DummyII.txt</action>
+                <alias>Dummy II</alias>
+
+            </slot_2>
+            <slot_1>
+                <icon>songs/Dummy</icon>
+                <type>ex</type>
+                <action>exec FBRD-DummyI.txt</action>
+                <alias>Dummy I</alias>
+
+            </slot_1>
+
+        </hotbar_2>
+
+    </partybuffs>
+    <default>
+        <hotbar_4>
+            <slot_9></slot_9>
+
+        </hotbar_4>
+        <name>Default</name>
+        <hotbar_1>
+            <slot_9></slot_9>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_9></slot_9>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_9></slot_9>
+
+        </hotbar_2>
+
+    </default>
+    <whmbuffs>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_4>
+        <name>WHMBuffs</name>
+        <hotbar_1>
+            <slot_2>
+                <icon>abilities/call-wyvern</icon>
+                <type>ex</type>
+                <action>exec aquaveil.txt</action>
+                <alias>aquaveil</alias>
+
+            </slot_2>
+            <slot_7>
+                <icon>white-magic/Shell</icon>
+                <type>ex</type>
+                <action>exec ShellV.txt</action>
+                <alias>ShellV</alias>
+
+            </slot_7>
+            <slot_6>
+                <icon>abilities/call-wyvern</icon>
+                <type>ex</type>
+                <action>exec Stoneskin.txt</action>
+                <alias>Stoneskin</alias>
+
+            </slot_6>
+            <slot_1>
+                <icon>abilities/call-wyvern</icon>
+                <type>ex</type>
+                <action>exec Auspice.txt</action>
+                <alias>Auspice</alias>
+
+            </slot_1>
+            <slot_4></slot_4>
+            <slot_5>
+                <icon>white-magic/Protect</icon>
+                <type>ex</type>
+                <action>exec ProtectV.txt</action>
+                <alias>ProtectV</alias>
+
+            </slot_5>
+            <slot_8>
+                <icon>abilities/call-wyvern</icon>
+                <type>ex</type>
+                <action>exec AccessionPage.txt</action>
+                <alias>Accession</alias>
+
+            </slot_8>
+            <slot_9></slot_9>
+            <slot_3>
+                <icon>abilities/call-wyvern</icon>
+                <type>ex</type>
+                <action>exec Haste.txt</action>
+                <alias>Haste</alias>
+
+            </slot_3>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_2></slot_2>
+            <slot_7>
+                <icon>whmb</icon>
+                <type>ex</type>
+                <action>exec BDEX.txt</action>
+                <alias>BDEX</alias>
+
+            </slot_7>
+            <slot_6>
+                <icon>whmb</icon>
+                <type>ex</type>
+                <action>exec BSTR.txt</action>
+                <alias>BSTR</alias>
+
+            </slot_6>
+            <slot_1></slot_1>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5>
+                <icon>whmb</icon>
+                <type>ex</type>
+                <action>exec BAGI.txt</action>
+                <alias>BAGI</alias>
+
+            </slot_5>
+            <slot_8>
+                <icon>whmb</icon>
+                <type>ex</type>
+                <action>exec BVIT.txt</action>
+                <alias>BVIT</alias>
+
+            </slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_2>
+
+    </whmbuffs>
+    <geoeleaoe2>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_4>
+        <name>GEOELEAOE2</name>
+        <hotbar_1>
+            <slot_2></slot_2>
+            <slot_6>
+                <target>t</target>
+                <type>ma</type>
+                <action>Thunder</action>
+                <alias>Thunder</alias>
+
+            </slot_6>
+            <slot_5>
+                <target>t</target>
+                <type>ma</type>
+                <action>Blizzard</action>
+                <alias>Blizzard</alias>
+
+            </slot_5>
+            <slot_9></slot_9>
+            <slot_7>
+                <target>t</target>
+                <type>ma</type>
+                <action>Stone</action>
+                <alias>Stone</alias>
+
+            </slot_7>
+            <slot_8>
+                <target>t</target>
+                <type>ma</type>
+                <action>Aero</action>
+                <alias>Aero</alias>
+
+            </slot_8>
+            <slot_4>
+                <target>t</target>
+                <type>ma</type>
+                <action>Water</action>
+                <alias>Water</alias>
+
+            </slot_4>
+            <slot_3>
+                <target>t</target>
+                <type>ma</type>
+                <action>Fire</action>
+                <alias>Fire</alias>
+
+            </slot_3>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_2>
+
+    </geoeleaoe2>
+    <scytheskills>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_4>
+        <name>ScytheSkills</name>
+        <hotbar_1>
+            <slot_3></slot_3>
+            <slot_6>
+                <target>t</target>
+                <type>ws</type>
+                <action>Shadow of Death</action>
+                <alias>Shadow of Death</alias>
+
+            </slot_6>
+            <slot_4></slot_4>
+            <slot_9></slot_9>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_2></slot_2>
+            <slot_1></slot_1>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_2>
+                <target>t</target>
+                <type>ws</type>
+                <action>Insurgency</action>
+                <alias>Insurgency</alias>
+
+            </slot_2>
+            <slot_7>
+                <target>t</target>
+                <type>ws</type>
+                <action>Infernal Scythe</action>
+                <alias>Infernal Scythe</alias>
+
+            </slot_7>
+            <slot_6>
+                <target>t</target>
+                <type>ws</type>
+                <action>Cross Reaper</action>
+                <alias>Cross Reaper</alias>
+
+            </slot_6>
+            <slot_1>
+                <target>t</target>
+                <type>ws</type>
+                <action>Quietus</action>
+                <alias>Quietus</alias>
+
+            </slot_1>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5>
+                <target>t</target>
+                <type>ws</type>
+                <action>Guillotine</action>
+                <alias>Guillotine</alias>
+
+            </slot_5>
+            <slot_8>
+                <target>t</target>
+                <type>ws</type>
+                <action>Entropy</action>
+                <alias>Entropy</alias>
+
+            </slot_8>
+            <slot_9></slot_9>
+            <slot_3>
+                <target>t</target>
+                <type>ws</type>
+                <action>Catastrophe</action>
+                <alias>Catastrophe</alias>
+
+            </slot_3>
+
+        </hotbar_2>
+
+    </scytheskills>
+    <jas>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_4>
+        <name>JAs</name>
+        <hotbar_1>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_2>
+                <target>me</target>
+                <type>ja</type>
+                <action>Seigan</action>
+                <alias>Seigan</alias>
+
+            </slot_2>
+            <slot_7>
+                <target>me</target>
+                <type>ja</type>
+                <action>Arcane Circle</action>
+                <alias>Arcane Circle</alias>
+
+            </slot_7>
+            <slot_6>
+                <target>t</target>
+                <type>ja</type>
+                <action>Arcane Crest</action>
+                <alias>Arcane Crest</alias>
+
+            </slot_6>
+            <slot_3>
+                <target>me</target>
+                <type>ja</type>
+                <action>Hasso</action>
+                <alias>Hasso</alias>
+
+            </slot_3>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5>
+                <target>me</target>
+                <type>ja</type>
+                <action>Last Resort</action>
+                <alias>Last Resort</alias>
+
+            </slot_5>
+            <slot_8>
+                <target>me</target>
+                <type>ja</type>
+                <action>Meditate</action>
+                <alias>Meditate</alias>
+
+            </slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_2>
+
+    </jas>
+    <geogeo>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_4>
+        <name>GEOGEO</name>
+        <hotbar_1>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1>
+                <icon>Entrust</icon>
+                <type>ex</type>
+                <action>exec GEOMEVA.txt</action>
+                <alias>MEVA</alias>
+
+            </slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_2>
+
+    </geogeo>
+    <geoalt>
+        <hotbar_4>
+            <slot_6>
+                <icon>white-magic/Curaga</icon>
+                <type>ex</type>
+                <action>exec Antidote.txt</action>
+                <alias>Antidote</alias>
+
+            </slot_6>
+            <slot_9></slot_9>
+            <slot_7>
+                <icon>white-magic/Curaga</icon>
+                <type>ex</type>
+                <action>exec Echo.txt</action>
+                <alias>Echo Drops</alias>
+
+            </slot_7>
+            <slot_8>
+                <target>me</target>
+                <type>ja</type>
+                <action>Third Eye</action>
+                <alias>Third Eye</alias>
+
+            </slot_8>
+            <slot_5>
+                <target>me</target>
+                <type>ja</type>
+                <action>Seigan</action>
+                <alias>Seigan</alias>
+
+            </slot_5>
+            <slot_3>
+                <icon>Shield</icon>
+                <type>ex</type>
+                <action>gs c toggledt</action>
+                <alias>-Damage Taken</alias>
+
+            </slot_3>
+
+        </hotbar_4>
+        <name>GEOALT</name>
+        <hotbar_1>
+            <slot_2>
+                <type>ex</type>
+                <action>xb bar geobuff</action>
+                <target>target</target>
+                <alias>Geo/Indi Buffs</alias>
+                <icon>autoattack</icon>
+
+            </slot_2>
+            <slot_7>
+                <type>ex</type>
+                <action>exec Targetcleanse.txt</action>
+                <target>target</target>
+                <alias>Clensing Magic</alias>
+                <icon>WHMC</icon>
+
+            </slot_7>
+            <slot_6>
+                <type>ex</type>
+                <action>exec Targetcures.txt</action>
+                <target>target</target>
+                <alias>Cure Magic</alias>
+                <icon>WHMH</icon>
+
+            </slot_6>
+            <slot_1>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_1>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar geodebuff</action>
+                <target>target</target>
+                <alias>Geo/Indi Debuff</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5>
+                <type>ex</type>
+                <action>xb bar GEOELE</action>
+                <target>target</target>
+                <alias>Elemental</alias>
+                <icon>autoattack</icon>
+
+            </slot_5>
+            <slot_8>
+                <type>ex</type>
+                <action>xb bar geoenf</action>
+                <target>target</target>
+                <alias>Enfeebles</alias>
+                <icon>autoattack</icon>
+
+            </slot_8>
+            <slot_9></slot_9>
+            <slot_3>
+                <type>ex</type>
+                <action>xb bar GEOABILITIES</action>
+                <target>target</target>
+                <alias>GEO Abilities</alias>
+                <icon>autoattack</icon>
+
+            </slot_3>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_9></slot_9>
+            <slot_7>
+                <target>me</target>
+                <type>ja</type>
+                <action>Dark Seal</action>
+                <alias>Dark Seal</alias>
+
+            </slot_7>
+            <slot_6>
+                <target>t</target>
+                <type>ma</type>
+                <action>Drain III</action>
+                <alias>Drain III</alias>
+
+            </slot_6>
+            <slot_1>
+                <target>me</target>
+                <type>ma</type>
+                <action>Dread Spikes</action>
+                <alias>Dread Spikes</alias>
+
+            </slot_1>
+            <slot_4>
+                <target>me</target>
+                <type>ja</type>
+                <action>Hasso</action>
+                <alias>Hasso</alias>
+
+            </slot_4>
+            <slot_5>
+                <target>me</target>
+                <type>ja</type>
+                <action>Nether Void</action>
+                <alias>Nether Void</alias>
+
+            </slot_5>
+            <slot_8>
+                <target>me</target>
+                <type>ja</type>
+                <action>Last Resort</action>
+                <alias>Last Resort</alias>
+
+            </slot_8>
+            <slot_2>
+                <target>me</target>
+                <type>ma</type>
+                <action>Endark II</action>
+                <alias>Endark II</alias>
+
+            </slot_2>
+            <slot_3>
+                <target>me</target>
+                <type>ja</type>
+                <action>Scarlet Delirium</action>
+                <alias>Scarlet Delirium</alias>
+
+            </slot_3>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_9></slot_9>
+            <slot_7>
+                <type>ex</type>
+                <action>xb bar WSlist</action>
+                <target>target</target>
+                <alias>WeaponSkills</alias>
+                <icon>GS</icon>
+
+            </slot_7>
+            <slot_6>
+                <target>t</target>
+                <type>ma</type>
+                <action>Poison</action>
+                <alias>Poison</alias>
+
+            </slot_6>
+            <slot_1>
+                <type>ex</type>
+                <action>xb bar Swaps</action>
+                <target>target</target>
+                <alias>Equipment</alias>
+                <icon>Swap</icon>
+
+            </slot_1>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Magic</action>
+                <target>target</target>
+                <alias>Magic</alias>
+                <icon>WHME</icon>
+
+            </slot_4>
+            <slot_5>
+                <target>t</target>
+                <type>ma</type>
+                <action>Poisonga</action>
+                <alias>Poisonga</alias>
+
+            </slot_5>
+            <slot_8>
+                <type>ex</type>
+                <action>xb bar JAs</action>
+                <target>target</target>
+                <alias>Job Abilities</alias>
+                <icon>Dice</icon>
+
+            </slot_8>
+            <slot_2>
+                <target>t</target>
+                <type>ja</type>
+                <action>Weapon Bash</action>
+                <alias>Weapon Bash</alias>
+
+            </slot_2>
+            <slot_3>
+                <target>t</target>
+                <type>ma</type>
+                <action>Stun</action>
+                <alias>Stun</alias>
+
+            </slot_3>
+
+        </hotbar_2>
+
+    </geoalt>
+    <drains>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_4>
+        <name>Drains</name>
+        <hotbar_1>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6>
+                <target>st</target>
+                <type>ma</type>
+                <action>Drain II</action>
+                <alias>Drain II</alias>
+
+            </slot_6>
+            <slot_3>
+                <target>st</target>
+                <type>ma</type>
+                <action>Aspir II</action>
+                <alias>Aspir II</alias>
+
+            </slot_3>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5>
+                <target>st</target>
+                <type>ma</type>
+                <action>Drain</action>
+                <alias>Drain</alias>
+
+            </slot_5>
+            <slot_8>
+                <target>me</target>
+                <type>ja</type>
+                <action>Nether Void</action>
+                <alias>Nether Void</alias>
+
+            </slot_8>
+            <slot_9></slot_9>
+            <slot_1>
+                <target>st</target>
+                <type>ma</type>
+                <action>Aspir</action>
+                <alias>Aspir</alias>
+
+            </slot_1>
+
+        </hotbar_2>
+
+    </drains>
+    <corja>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_4>
+        <name>CORJA</name>
+        <hotbar_1>
+            <slot_2></slot_2>
+            <slot_7>
+                <icon>songs/Ballad</icon>
+                <type>ex</type>
+                <action>exec ECORCrooked.txt</action>
+                <alias>Crooked Cards</alias>
+
+            </slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5>
+                <icon>songs/Ballad</icon>
+                <type>ex</type>
+                <action>exec ECORRandom.txt</action>
+                <alias>Random Deal</alias>
+
+            </slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_2>
+
+    </corja>
+    <weaponskills>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_4>
+        <name>WeaponSkills</name>
+        <hotbar_1>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_6>
+                <target>t</target>
+                <type>ws</type>
+                <action>Resolution</action>
+                <alias>Resolution</alias>
+
+            </slot_6>
+            <slot_9></slot_9>
+            <slot_7>
+                <target>t</target>
+                <type>ws</type>
+                <action>Torcleaver</action>
+                <alias>Torcleaver</alias>
+
+            </slot_7>
+            <slot_8>
+                <target>t</target>
+                <type>ws</type>
+                <action>Shockwave</action>
+                <alias>Shockwave</alias>
+
+            </slot_8>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5>
+                <target>t</target>
+                <type>ws</type>
+                <action>Herculean Slash</action>
+                <alias>Herculean Slash</alias>
+
+            </slot_5>
+
+        </hotbar_2>
+
+    </weaponskills>
+    <wslist>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_4>
+        <name>WSList</name>
+        <hotbar_1>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_2>
+                <target>me</target>
+                <type>ja</type>
+                <action>Sekkanoki</action>
+                <alias>Sekkanoki</alias>
+
+            </slot_2>
+            <slot_7>
+                <type>ex</type>
+                <action>xb bar Weaponskills</action>
+                <target>target</target>
+                <alias>Greatsword</alias>
+                <icon>GS</icon>
+
+            </slot_7>
+            <slot_6>
+                <type>ex</type>
+                <action>xb bar ScytheSkills</action>
+                <target>target</target>
+                <alias>Scythe</alias>
+                <icon>GS</icon>
+
+            </slot_6>
+            <slot_1>
+                <target>me</target>
+                <type>ja</type>
+                <action>Consume Mana</action>
+                <alias>Consume Mana</alias>
+
+            </slot_1>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5>
+                <type>ex</type>
+                <action>xb bar GAWS</action>
+                <target>target</target>
+                <alias>Greataxe</alias>
+                <icon>GS</icon>
+
+            </slot_5>
+            <slot_8>
+                <type>ex</type>
+                <action>xb bar SWS</action>
+                <target>target</target>
+                <alias>Sword</alias>
+                <icon>GS</icon>
+
+            </slot_8>
+            <slot_9></slot_9>
+            <slot_3>
+                <target>me</target>
+                <type>ja</type>
+                <action>Souleater</action>
+                <alias>Souleater</alias>
+
+            </slot_3>
+
+        </hotbar_2>
+
+    </wslist>
+    <geoingeo>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_4>
+        <name>GEOINGEO</name>
+        <hotbar_1>
+            <slot_2></slot_2>
+            <slot_7>
+                <type>ex</type>
+                <action>xb bar geobuff</action>
+                <target>target</target>
+                <alias>Buffs</alias>
+                <icon>autoattack</icon>
+
+            </slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5>
+                <type>ex</type>
+                <action>xb bar geodebuff</action>
+                <target>target</target>
+                <alias>Debuffs</alias>
+                <icon>autoattack</icon>
+
+            </slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_2>
+
+    </geoingeo>
+    <cures>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_4>
+        <name>Cures</name>
+        <hotbar_1>
+            <slot_2>
+                <icon>white-magic/Curaga</icon>
+                <type>ex</type>
+                <action>exec CuragaIV.txt</action>
+                <alias>CuragaIV</alias>
+
+            </slot_2>
+            <slot_7>
+                <icon>white-magic/Cure</icon>
+                <type>ex</type>
+                <action>exec CureV.txt</action>
+                <alias>CureV</alias>
+
+            </slot_7>
+            <slot_6>
+                <icon>white-magic/Cure</icon>
+                <type>ex</type>
+                <action>exec CureIV.txt</action>
+                <alias>CureIV</alias>
+
+            </slot_6>
+            <slot_3>
+                <icon>white-magic/Curaga</icon>
+                <type>ex</type>
+                <action>exec CuragaV.txt</action>
+                <alias>CuragaV</alias>
+
+            </slot_3>
+            <slot_4>
+                <icon>white-magic/Curaga</icon>
+                <type>ex</type>
+                <action>exec Curaga.txt</action>
+                <alias>Curaga</alias>
+
+            </slot_4>
+            <slot_5>
+                <icon>white-magic/Cure</icon>
+                <type>ex</type>
+                <action>exec CureIII.txt</action>
+                <alias>CureIII</alias>
+
+            </slot_5>
+            <slot_8>
+                <icon>white-magic/Cure</icon>
+                <type>ex</type>
+                <action>exec CureVI.txt</action>
+                <alias>CureVI</alias>
+
+            </slot_8>
+            <slot_9></slot_9>
+            <slot_1>
+                <icon>white-magic/Curaga</icon>
+                <type>ex</type>
+                <action>exec CuragaIII.txt</action>
+                <alias>CuragaIII</alias>
+
+            </slot_1>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_2>
+                <icon>white-magic/arise</icon>
+                <type>ex</type>
+                <action>exec Arise.txt</action>
+                <alias>Arise</alias>
+
+            </slot_2>
+            <slot_7>
+                <icon>white-magic/regen</icon>
+                <type>ex</type>
+                <action>exec RegenIV.txt</action>
+                <alias>RegenIV</alias>
+
+            </slot_7>
+            <slot_6>
+                <icon>white-magic/regen</icon>
+                <type>ex</type>
+                <action>exec RegenIII.txt</action>
+                <alias>RegenIII</alias>
+
+            </slot_6>
+            <slot_3>
+                <icon>abilities/call-wyvern</icon>
+                <type>ex</type>
+                <action>exec CelarityCures.txt</action>
+                <alias>Celerity</alias>
+
+            </slot_3>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5>
+                <icon>white-magic/regen</icon>
+                <type>ex</type>
+                <action>exec RegenV.txt</action>
+                <alias>RegenV</alias>
+
+            </slot_5>
+            <slot_8>
+                <icon>abilities/call-wyvern</icon>
+                <type>ex</type>
+                <action>exec Aurora.txt</action>
+                <alias>Aurorastorm</alias>
+
+            </slot_8>
+            <slot_9></slot_9>
+            <slot_1>
+                <icon>abilities/call-wyvern</icon>
+                <type>ex</type>
+                <action>exec AccessionPage3</action>
+                <alias>Accession</alias>
+
+            </slot_1>
+
+        </hotbar_2>
+
+    </cures>
+    <geoelest2>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_4>
+        <name>GEOELEST2</name>
+        <hotbar_1>
+            <slot_9></slot_9>
+            <slot_7>
+                <icon>Stone</icon>
+                <type>ex</type>
+                <action>exec GEOSTStone2.txt</action>
+                <alias>D-Stone</alias>
+
+            </slot_7>
+            <slot_6>
+                <icon>Thunder</icon>
+                <type>ex</type>
+                <action>exec GEOSTthunder2.txt</action>
+                <alias>L-Thunder</alias>
+
+            </slot_6>
+            <slot_3>
+                <icon>fire</icon>
+                <type>ex</type>
+                <action>exec GEOSTfire2.txt</action>
+                <alias>L-Fire</alias>
+
+            </slot_3>
+            <slot_4>
+                <icon>Water</icon>
+                <type>ex</type>
+                <action>exec GEOSTwater2.txt</action>
+                <alias>D-Water</alias>
+
+            </slot_4>
+            <slot_5>
+                <icon>blizzard</icon>
+                <type>ex</type>
+                <action>exec GEOSTICE2.txt</action>
+                <alias>D-Ice</alias>
+
+            </slot_5>
+            <slot_8>
+                <icon>Aero</icon>
+                <type>ex</type>
+                <action>exec GEOSTaero2.txt</action>
+                <alias>L-Aero</alias>
+
+            </slot_8>
+            <slot_2></slot_2>
+            <slot_1></slot_1>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_2>
+
+    </geoelest2>
+    <absorbs>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_4>
+        <name>Absorbs</name>
+        <hotbar_1>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_9></slot_9>
+            <slot_7>
+                <target>t</target>
+                <type>ma</type>
+                <action>Absorb-STR</action>
+                <alias>Absorb-STR</alias>
+
+            </slot_7>
+            <slot_6>
+                <target>t</target>
+                <type>ma</type>
+                <action>Absorb-VIT</action>
+                <alias>Absorb-VIT</alias>
+
+            </slot_6>
+            <slot_3>
+                <target>me</target>
+                <type>ja</type>
+                <action>Nether Void</action>
+                <alias>Nether Void</alias>
+
+            </slot_3>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5>
+                <target>t</target>
+                <type>ma</type>
+                <action>Absorb-ACC</action>
+                <alias>Absorb-ACC</alias>
+
+            </slot_5>
+            <slot_8>
+                <target>t</target>
+                <type>ma</type>
+                <action>Absorb-TP</action>
+                <alias>Absorb-TP</alias>
+
+            </slot_8>
+            <slot_2>
+                <target>t</target>
+                <type>ma</type>
+                <action>Absorb-Attri</action>
+                <alias>Absorb-Attri</alias>
+
+            </slot_2>
+            <slot_1></slot_1>
+
+        </hotbar_2>
+
+    </absorbs>
+    <clease>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_4>
+        <name>Clease</name>
+        <hotbar_1>
+            <slot_2>
+                <icon>white-magic/Esuna</icon>
+                <type>ex</type>
+                <action>exec Poisona.txt</action>
+                <alias>Poisona</alias>
+
+            </slot_2>
+            <slot_7>
+                <icon>white-magic/Esuna</icon>
+                <type>ex</type>
+                <action>exec Blindna.txt</action>
+                <alias>Blindna</alias>
+
+            </slot_7>
+            <slot_6>
+                <icon>white-magic/Esuna</icon>
+                <type>ex</type>
+                <action>exec Erase.txt</action>
+                <alias>~Erase~</alias>
+
+            </slot_6>
+            <slot_3>
+                <icon>white-magic/Esuna</icon>
+                <type>ex</type>
+                <action>exec Cursna.txt</action>
+                <alias>~Cursna~</alias>
+
+            </slot_3>
+            <slot_4>
+                <icon>white-magic/Esuna</icon>
+                <type>ex</type>
+                <action>exec Stona.txt</action>
+                <alias>Stona</alias>
+
+            </slot_4>
+            <slot_5>
+                <icon>white-magic/Esuna</icon>
+                <type>ex</type>
+                <action>exec Silena.txt</action>
+                <alias>Silena</alias>
+
+            </slot_5>
+            <slot_8>
+                <icon>white-magic/Esuna</icon>
+                <type>ex</type>
+                <action>exec Paralyna.txt</action>
+                <alias>Paralyna</alias>
+
+            </slot_8>
+            <slot_9></slot_9>
+            <slot_1>
+                <icon>white-magic/Esuna</icon>
+                <type>ex</type>
+                <action>exec Viruna.txt</action>
+                <alias>Viruna</alias>
+
+            </slot_1>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_2></slot_2>
+            <slot_7>
+                <icon>abilities/call-wyvern</icon>
+                <type>ex</type>
+                <action>exec Esuna.txt</action>
+                <alias>Esuna</alias>
+
+            </slot_7>
+            <slot_6>
+                <icon>abilities/call-wyvern</icon>
+                <type>ex</type>
+                <action>exec Accession.txt</action>
+                <alias>Accession</alias>
+
+            </slot_6>
+            <slot_3>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_3>
+            <slot_4></slot_4>
+            <slot_5>
+                <icon>abilities/call-wyvern</icon>
+                <type>ex</type>
+                <action>exec DivineCaress.txt</action>
+                <alias>DivineCaress</alias>
+
+            </slot_5>
+            <slot_8>
+                <icon>abilities/call-wyvern</icon>
+                <type>ex</type>
+                <action>exec DivineSealClense.txt</action>
+                <alias>DivineSeal</alias>
+
+            </slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_2>
+
+    </clease>
+    <scures>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_4>
+        <name>SCures</name>
+        <hotbar_1>
+            <slot_6>
+                <icon>white-magic/Cure</icon>
+                <type>ex</type>
+                <action>exec CureIV.txt</action>
+                <alias>CureIV</alias>
+
+            </slot_6>
+            <slot_9></slot_9>
+            <slot_5>
+                <icon>white-magic/Cure</icon>
+                <type>ex</type>
+                <action>exec CureIII.txt</action>
+                <alias>CureIII</alias>
+
+            </slot_5>
+            <slot_8></slot_8>
+            <slot_4>
+                <icon>white-magic/Curaga</icon>
+                <type>ex</type>
+                <action>exec Curaga.txt</action>
+                <alias>Curaga</alias>
+
+            </slot_4>
+            <slot_1>
+                <icon>white-magic/Curaga</icon>
+                <type>ex</type>
+                <action>exec CuragaIII.txt</action>
+                <alias>CuragaIII</alias>
+
+            </slot_1>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_6>
+                <icon>white-magic/regen</icon>
+                <type>ex</type>
+                <action>exec RegenIII.txt</action>
+                <alias>RegenIII</alias>
+
+            </slot_6>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_1></slot_1>
+
+        </hotbar_2>
+
+    </scures>
+    <brdjobabilities>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_4>
+        <name>BRDjobabilities</name>
+        <hotbar_1>
+            <slot_6>
+                <icon>Abilities/Troubadour</icon>
+                <type>ex</type>
+                <action>exec nightgale.txt</action>
+                <alias>Nightingale</alias>
+
+            </slot_6>
+            <slot_9></slot_9>
+            <slot_7>
+                <icon>Abilities/Troubadour</icon>
+                <type>ex</type>
+                <action>exec Troubadour.txt</action>
+                <alias>Troubadou</alias>
+
+            </slot_7>
+            <slot_8>
+                <icon>Abilities/Marcato</icon>
+                <type>ex</type>
+                <action>exec Marcator.txt</action>
+                <alias>Marcato</alias>
+
+            </slot_8>
+            <slot_5>
+                <icon>Abilities/Piani</icon>
+                <type>ex</type>
+                <action>exec Clarion.txt</action>
+                <alias>Clarion</alias>
+
+            </slot_5>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_9></slot_9>
+            <slot_5></slot_5>
+            <slot_1></slot_1>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_3></slot_3>
+
+        </hotbar_2>
+
+    </brdjobabilities>
+    <threnody>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_4>
+        <name>Threnody</name>
+        <hotbar_1>
+            <slot_2>
+                <icon>songs/Lullaby</icon>
+                <type>ex</type>
+                <action>exec ThrenodyFire.txt</action>
+                <alias>Dark</alias>
+
+            </slot_2>
+            <slot_7>
+                <icon>songs/Lullaby</icon>
+                <type>ex</type>
+                <action>exec ThrenodyThunder.txt</action>
+                <alias>Thunder</alias>
+
+            </slot_7>
+            <slot_6>
+                <icon>songs/Lullaby</icon>
+                <type>ex</type>
+                <action>exec ThrenodyLight.txt</action>
+                <alias>Light</alias>
+
+            </slot_6>
+            <slot_3>
+                <icon>songs/Lullaby</icon>
+                <type>ex</type>
+                <action>exec ThrenodyIce.txt</action>
+                <alias>Ice</alias>
+
+            </slot_3>
+            <slot_4>
+                <icon>songs/Lullaby</icon>
+                <type>ex</type>
+                <action>exec ThrenodyFire.txt</action>
+                <alias>Fire</alias>
+
+            </slot_4>
+            <slot_5>
+                <icon>songs/Lullaby</icon>
+                <type>ex</type>
+                <action>exec Threnodywind.txt</action>
+                <alias>Wind</alias>
+
+            </slot_5>
+            <slot_8>
+                <icon>songs/Lullaby</icon>
+                <type>ex</type>
+                <action>exec ThrenodyStone.txt</action>
+                <alias>Stone</alias>
+
+            </slot_8>
+            <slot_9></slot_9>
+            <slot_1>
+                <icon>songs/Lullaby</icon>
+                <type>ex</type>
+                <action>exec Threnodywater.txt</action>
+                <alias>Water</alias>
+
+            </slot_1>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_2>
+
+    </threnody>
+    <brdalt>
+        <hotbar_4>
+            <slot_6>
+                <icon>white-magic/Curaga</icon>
+                <type>ex</type>
+                <action>exec Antidote.txt</action>
+                <alias>Antidote</alias>
+
+            </slot_6>
+            <slot_9></slot_9>
+            <slot_7>
+                <icon>white-magic/Curaga</icon>
+                <type>ex</type>
+                <action>exec Echo.txt</action>
+                <alias>Echo Drops</alias>
+
+            </slot_7>
+            <slot_8>
+                <target>me</target>
+                <type>ja</type>
+                <action>Third Eye</action>
+                <alias>Third Eye</alias>
+
+            </slot_8>
+            <slot_5>
+                <target>me</target>
+                <type>ja</type>
+                <action>Seigan</action>
+                <alias>Seigan</alias>
+
+            </slot_5>
+            <slot_3>
+                <icon>Shield</icon>
+                <type>ex</type>
+                <action>exec DRKDT.txt</action>
+                <alias>-Damage Taken</alias>
+
+            </slot_3>
+
+        </hotbar_4>
+        <name>BRDALT</name>
+        <hotbar_1>
+            <slot_2>
+                <type>ex</type>
+                <action>xb bar PartyBuffs</action>
+                <target>target</target>
+                <alias>BRD Buffs</alias>
+                <icon>WHMB</icon>
+
+            </slot_2>
+            <slot_7>
+                <type>ex</type>
+                <action>exec Targetcleanse.txt</action>
+                <target>target</target>
+                <alias>Clensing Magic</alias>
+                <icon>WHMC</icon>
+
+            </slot_7>
+            <slot_6>
+                <type>ex</type>
+                <action>exec Targetcures.txt</action>
+                <target>target</target>
+                <alias>Cure Magic</alias>
+                <icon>WHMH</icon>
+
+            </slot_6>
+            <slot_1>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_1>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Extras</action>
+                <target>target</target>
+                <alias>Extras</alias>
+                <icon>blue</icon>
+
+            </slot_4>
+            <slot_5>
+                <type>ex</type>
+                <action>xb bar BRDJobabilities</action>
+                <target>target</target>
+                <alias>BRD Abilities</alias>
+                <icon>WHMA</icon>
+
+            </slot_5>
+            <slot_8>
+                <type>ex</type>
+                <action>xb bar BRDenfeebles</action>
+                <target>target</target>
+                <alias>Debuffs</alias>
+                <icon>WHME</icon>
+
+            </slot_8>
+            <slot_9></slot_9>
+            <slot_3>
+                <icon>WHMB</icon>
+                <type>ex</type>
+                <action>exec TargetBuff.txt</action>
+                <alias>Piani Buffs</alias>
+
+            </slot_3>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_9></slot_9>
+            <slot_7>
+                <target>me</target>
+                <type>ja</type>
+                <action>Dark Seal</action>
+                <alias>Dark Seal</alias>
+
+            </slot_7>
+            <slot_6>
+                <target>t</target>
+                <type>ma</type>
+                <action>Drain III</action>
+                <alias>Drain III</alias>
+
+            </slot_6>
+            <slot_1>
+                <target>me</target>
+                <type>ma</type>
+                <action>Dread Spikes</action>
+                <alias>Dread Spikes</alias>
+
+            </slot_1>
+            <slot_4>
+                <target>me</target>
+                <type>ja</type>
+                <action>Hasso</action>
+                <alias>Hasso</alias>
+
+            </slot_4>
+            <slot_5>
+                <target>me</target>
+                <type>ja</type>
+                <action>Nether Void</action>
+                <alias>Nether Void</alias>
+
+            </slot_5>
+            <slot_8>
+                <target>me</target>
+                <type>ja</type>
+                <action>Last Resort</action>
+                <alias>Last Resort</alias>
+
+            </slot_8>
+            <slot_2>
+                <target>me</target>
+                <type>ma</type>
+                <action>Endark II</action>
+                <alias>Endark II</alias>
+
+            </slot_2>
+            <slot_3>
+                <target>me</target>
+                <type>ja</type>
+                <action>Scarlet Delirium</action>
+                <alias>Scarlet Delirium</alias>
+
+            </slot_3>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_9></slot_9>
+            <slot_7>
+                <type>ex</type>
+                <action>xb bar WSlist</action>
+                <target>target</target>
+                <alias>WeaponSkills</alias>
+                <icon>GS</icon>
+
+            </slot_7>
+            <slot_6>
+                <target>t</target>
+                <type>ma</type>
+                <action>Poison</action>
+                <alias>Poison</alias>
+
+            </slot_6>
+            <slot_1>
+                <type>ex</type>
+                <action>xb bar Swaps</action>
+                <target>target</target>
+                <alias>Equipment</alias>
+                <icon>Swap</icon>
+
+            </slot_1>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Magic</action>
+                <target>target</target>
+                <alias>Magic</alias>
+                <icon>WHME</icon>
+
+            </slot_4>
+            <slot_5>
+                <target>t</target>
+                <type>ma</type>
+                <action>Poisonga</action>
+                <alias>Poisonga</alias>
+
+            </slot_5>
+            <slot_8>
+                <type>ex</type>
+                <action>xb bar JAs</action>
+                <target>target</target>
+                <alias>Job Abilities</alias>
+                <icon>Dice</icon>
+
+            </slot_8>
+            <slot_2>
+                <target>t</target>
+                <type>ja</type>
+                <action>Weapon Bash</action>
+                <alias>Weapon Bash</alias>
+
+            </slot_2>
+            <slot_3>
+                <target>t</target>
+                <type>ma</type>
+                <action>Stun</action>
+                <alias>Stun</alias>
+
+            </slot_3>
+
+        </hotbar_2>
+
+    </brdalt>
+    <geoele>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_4>
+        <name>GEOELE</name>
+        <hotbar_1>
+            <slot_2></slot_2>
+            <slot_7>
+                <type>ex</type>
+                <action>xb bar GEOELEST</action>
+                <target>target</target>
+                <alias>Elemental ST</alias>
+                <icon>autoattack</icon>
+
+            </slot_7>
+            <slot_6>
+                <icon>Abilities/Troubadour</icon>
+                <type>ex</type>
+                <action>exec Eleseal.txt</action>
+                <alias>Elem. Seal</alias>
+
+            </slot_6>
+            <slot_3>
+                <icon>Abilities/Troubadour</icon>
+                <type>ex</type>
+                <action>exec CFervor.txt</action>
+                <alias>Collimated Fervor</alias>
+
+            </slot_3>
+            <slot_4></slot_4>
+            <slot_5>
+                <type>ex</type>
+                <action>xb bar GEOELEAOE</action>
+                <target>target</target>
+                <alias>Elemental AOE</alias>
+                <icon>autoattack</icon>
+
+            </slot_5>
+            <slot_8>
+                <icon>Abilities/Troubadour</icon>
+                <type>ex</type>
+                <action>exec Theurgic.txt</action>
+                <alias>Theurgic Focus</alias>
+
+            </slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_2>
+
+    </geoele>
+    <geoabilities>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_4>
+        <name>GEOABILITIES</name>
+        <hotbar_1>
+            <slot_9></slot_9>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1>
+                <icon>Entrust</icon>
+                <type>ex</type>
+                <action>exec Pulse.txt</action>
+                <alias>Con. Pulse</alias>
+
+            </slot_1>
+            <slot_4>
+                <icon>Entrust</icon>
+                <type>ex</type>
+                <action>exec Mending.txt</action>
+                <alias>Mending Hal. +HP</alias>
+
+            </slot_4>
+            <slot_5>
+                <icon>Entrust</icon>
+                <type>ex</type>
+                <action>exec EntrustD.txt</action>
+                <alias>Entrust Debuffs</alias>
+
+            </slot_5>
+            <slot_8></slot_8>
+            <slot_2>
+                <icon>Entrust</icon>
+                <type>ex</type>
+                <action>exec Radial.txt</action>
+                <alias>Radial Arc. +MP</alias>
+
+            </slot_2>
+            <slot_3>
+                <icon>Entrust</icon>
+                <type>ex</type>
+                <action>exec Entrust.txt</action>
+                <alias>Entrust Buffs</alias>
+
+            </slot_3>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_2>
+                <icon>Abilities/Troubadour</icon>
+                <type>ex</type>
+                <action>exec FullCircle.txt</action>
+                <alias>Dismiss Luopon</alias>
+
+            </slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_2>
+
+    </geoabilities>
+    <gaws>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_4>
+        <name>GAWS</name>
+        <hotbar_1>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_9></slot_9>
+            <slot_7>
+                <target>t</target>
+                <type>ws</type>
+                <action>Fell Cleave</action>
+                <alias>Fell Cleave</alias>
+
+            </slot_7>
+            <slot_6>
+                <target>t</target>
+                <type>ws</type>
+                <action>Upheaval</action>
+                <alias>Upheaval</alias>
+
+            </slot_6>
+            <slot_3>
+                <target>t</target>
+                <type>ws</type>
+                <action>Shield Break</action>
+                <alias>Shield Break</alias>
+
+            </slot_3>
+            <slot_4></slot_4>
+            <slot_5>
+                <target>t</target>
+                <type>ws</type>
+                <action>Steel Cyclone</action>
+                <alias>Steel Cyclone</alias>
+
+            </slot_5>
+            <slot_8>
+                <target>t</target>
+                <type>ws</type>
+                <action>Armor Break</action>
+                <alias>Armor Break</alias>
+
+            </slot_8>
+            <slot_2></slot_2>
+            <slot_1></slot_1>
+
+        </hotbar_2>
+
+    </gaws>
+    <main>
+        <hotbar_4>
+            <slot_6>
+                <icon>white-magic/Curaga</icon>
+                <type>ex</type>
+                <action>exec Antidote.txt</action>
+                <alias>Antidote</alias>
+
+            </slot_6>
+            <slot_9></slot_9>
+            <slot_7>
+                <icon>white-magic/Curaga</icon>
+                <type>ex</type>
+                <action>exec Echo.txt</action>
+                <alias>Echo Drops</alias>
+
+            </slot_7>
+            <slot_8>
+                <target>me</target>
+                <type>ja</type>
+                <action>Third Eye</action>
+                <alias>Third Eye</alias>
+
+            </slot_8>
+            <slot_5>
+                <target>me</target>
+                <type>ja</type>
+                <action>Seigan</action>
+                <alias>Seigan</alias>
+
+            </slot_5>
+            <slot_3>
+                <icon>Shield</icon>
+                <type>ex</type>
+                <action>gs c toggledt</action>
+                <alias>-Damage Taken</alias>
+
+            </slot_3>
+
+        </hotbar_4>
+        <name>Main</name>
+        <hotbar_1>
+            <slot_2>
+                <type>ex</type>
+                <action>xb bar BRDALT</action>
+                <target>target</target>
+                <alias>BRD</alias>
+                <icon>BRD</icon>
+
+            </slot_2>
+            <slot_7>
+                <type>ex</type>
+                <action>exec Targetcleanse.txt</action>
+                <target>target</target>
+                <alias>Clensing Magic</alias>
+                <icon>WHMC</icon>
+
+            </slot_7>
+            <slot_6>
+                <type>ex</type>
+                <action>exec Targetcuresw.txt</action>
+                <target>target</target>
+                <alias>Cure Magic</alias>
+                <icon>WHMH</icon>
+
+            </slot_6>
+            <slot_3>
+                <icon>Medicine</icon>
+                <type>ex</type>
+                <action>xb bar Medicines</action>
+                <alias>Medicines</alias>
+
+            </slot_3>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar CORALT</action>
+                <target>target</target>
+                <alias>COR</alias>
+                <icon>COR</icon>
+
+            </slot_4>
+            <slot_5>
+                <type>ex</type>
+                <action>xb bar GEOALT</action>
+                <target>target</target>
+                <alias>GEO</alias>
+                <icon>GEO</icon>
+
+            </slot_5>
+            <slot_8>
+                <type>ex</type>
+                <action>xb bar WHMALT</action>
+                <target>target</target>
+                <alias>WHM</alias>
+                <icon>WHM</icon>
+
+            </slot_8>
+            <slot_9></slot_9>
+            <slot_1>
+                <type>ex</type>
+                <action>exec Altcontrol.txt</action>
+                <target>target</target>
+                <alias>Alt Functions</alias>
+                <icon>ALTC</icon>
+
+            </slot_1>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_9></slot_9>
+            <slot_7>
+                <target>me</target>
+                <type>ja</type>
+                <action>Dark Seal</action>
+                <alias>Dark Seal</alias>
+
+            </slot_7>
+            <slot_6>
+                <target>t</target>
+                <type>ma</type>
+                <action>Drain III</action>
+                <alias>Drain III</alias>
+
+            </slot_6>
+            <slot_1>
+                <target>me</target>
+                <type>ma</type>
+                <action>Dread Spikes</action>
+                <alias>Dread Spikes</alias>
+
+            </slot_1>
+            <slot_4>
+                <target>me</target>
+                <type>ja</type>
+                <action>Hasso</action>
+                <alias>Hasso</alias>
+
+            </slot_4>
+            <slot_5>
+                <target>me</target>
+                <type>ja</type>
+                <action>Nether Void</action>
+                <alias>Nether Void</alias>
+
+            </slot_5>
+            <slot_8>
+                <target>me</target>
+                <type>ja</type>
+                <action>Last Resort</action>
+                <alias>Last Resort</alias>
+
+            </slot_8>
+            <slot_2>
+                <target>me</target>
+                <type>ma</type>
+                <action>Endark II</action>
+                <alias>Endark II</alias>
+
+            </slot_2>
+            <slot_3>
+                <target>me</target>
+                <type>ja</type>
+                <action>Scarlet Delirium</action>
+                <alias>Scarlet Delirium</alias>
+
+            </slot_3>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_9></slot_9>
+            <slot_7>
+                <type>ex</type>
+                <action>xb bar WSlist</action>
+                <target>target</target>
+                <alias>WeaponSkills</alias>
+                <icon>GS</icon>
+
+            </slot_7>
+            <slot_6>
+                <target>t</target>
+                <type>ma</type>
+                <action>Poison</action>
+                <alias>Poison</alias>
+
+            </slot_6>
+            <slot_1>
+                <type>ex</type>
+                <action>xb bar Swaps</action>
+                <target>target</target>
+                <alias>Equipment</alias>
+                <icon>Swap</icon>
+
+            </slot_1>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Magic</action>
+                <target>target</target>
+                <alias>Magic</alias>
+                <icon>WHME</icon>
+
+            </slot_4>
+						 <slot_3>
+			                <icon>Def</icon>
+                <type>ex</type>
+                <action>gs c toggledt</action>
+                <alias>-Damage Taken</alias>
+					 </slot_3>
+            <slot_5>
+                <target>t</target>
+                <type>ma</type>
+                <action>Stun</action>
+                <alias>Stun</alias>
+
+            </slot_5>
+            <slot_8>
+                <type>ex</type>
+                <action>xb bar JAs</action>
+                <target>target</target>
+                <alias>Job Abilities</alias>
+                <icon>Dice</icon>
+
+            </slot_8>
+            <slot_2>
+                <target>t</target>
+                <type>ja</type>
+                <action>Weapon Bash</action>
+                <alias>Weapon Bash</alias>
+
+            </slot_2>
+
+        </hotbar_2>
+
+    </main>
+    <elemental>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_4>
+        <name>Elemental</name>
+        <hotbar_1>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_2>
+                <target>t</target>
+                <type>ma</type>
+                <action>Aero III</action>
+                <alias>Aero III</alias>
+
+            </slot_2>
+            <slot_7>
+                <target>t</target>
+                <type>ma</type>
+                <action>Fire III</action>
+                <alias>Fire III</alias>
+
+            </slot_7>
+            <slot_6></slot_6>
+            <slot_1>
+                <target>t</target>
+                <type>ma</type>
+                <action>Stone III</action>
+                <alias>Stone III</alias>
+
+            </slot_1>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5>
+                <target>t</target>
+                <type>ma</type>
+                <action>Thunder III</action>
+                <alias>Thunder III</alias>
+
+            </slot_5>
+            <slot_8>
+                <target>t</target>
+                <type>ma</type>
+                <action>Blizzard III</action>
+                <alias>Blizzard III</alias>
+
+            </slot_8>
+            <slot_9></slot_9>
+            <slot_3>
+                <target>t</target>
+                <type>ma</type>
+                <action>Water III</action>
+                <alias>Water III</alias>
+
+            </slot_3>
+
+        </hotbar_2>
+
+    </elemental>
+    <entrustb>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_4>
+        <name>EntrustB</name>
+        <hotbar_1>
+            <slot_2>
+                <icon>Entrust</icon>
+                <type>ex</type>
+                <action>exec EntrustMEVA.txt</action>
+                <alias>Mag.Evasion</alias>
+
+            </slot_2>
+            <slot_7>
+                <icon>Entrust</icon>
+                <type>ex</type>
+                <action>exec EntrustHaste.txt</action>
+                <alias>Haste</alias>
+
+            </slot_7>
+            <slot_6>
+                <icon>Entrust</icon>
+                <type>ex</type>
+                <action>exec EntrustFury.txt</action>
+                <alias>Indi-Fury</alias>
+
+            </slot_6>
+            <slot_3>
+                <icon>Entrust</icon>
+                <type>ex</type>
+                <action>exec EntrustMab.txt</action>
+                <alias>Mag.Att</alias>
+
+            </slot_3>
+            <slot_4>
+                <icon>Entrust</icon>
+                <type>ex</type>
+                <action>exec EntrustMdb.txt</action>
+                <alias>Mag.Def</alias>
+
+            </slot_4>
+            <slot_5>
+                <icon>Entrust</icon>
+                <type>ex</type>
+                <action>exec EntrustAccuracy.txt</action>
+                <alias>Accuracy</alias>
+
+            </slot_5>
+            <slot_8>
+                <icon>Entrust</icon>
+                <type>ex</type>
+                <action>exec EntrustMef.txt</action>
+                <alias>Defence</alias>
+
+            </slot_8>
+            <slot_9></slot_9>
+            <slot_1>
+                <icon>Entrust</icon>
+                <type>ex</type>
+                <action>exec EntrustMacc.txt</action>
+                <alias>Mag. Acc.</alias>
+
+            </slot_1>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_2>
+
+    </entrustb>
+    <entrustd>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_4>
+        <name>EntrustD</name>
+        <hotbar_1>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_2>
+
+    </entrustd>
+    <darkspells>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_4>
+        <name>DarkSpells</name>
+        <hotbar_1>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_9></slot_9>
+            <slot_4></slot_4>
+            <slot_8></slot_8>
+            <slot_2></slot_2>
+            <slot_3></slot_3>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_1>
+                <target>me</target>
+                <type>ja</type>
+                <action>Nether Void</action>
+                <alias>Nether Void</alias>
+
+            </slot_1>
+            <slot_6>
+                <target>stnpc</target>
+                <type>ma</type>
+                <action>Stun</action>
+                <alias>Stun</alias>
+
+            </slot_6>
+            <slot_3>
+                <target>me</target>
+                <type>ja</type>
+                <action>Dark Seal</action>
+                <alias>Dark Seal</alias>
+
+            </slot_3>
+            <slot_9></slot_9>
+
+        </hotbar_2>
+
+    </darkspells>
+    <altcontrols>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_4>
+        <name>AltControls</name>
+        <hotbar_1>
+            <slot_2>
+                <icon>return-trust</icon>
+                <type>ex</type>
+                <action>exec dismount.txt</action>
+                <alias>Dismount</alias>
+
+            </slot_2>
+            <slot_7>
+                <icon>engage</icon>
+                <type>ex</type>
+                <action>exec FEngage.txt</action>
+                <alias>Engage</alias>
+
+            </slot_7>
+            <slot_6>
+                <icon>Assist</icon>
+                <type>ex</type>
+                <action>exec FAttack.txt</action>
+                <alias>Attack</alias>
+
+            </slot_6>
+            <slot_3>
+                <icon>withdraw</icon>
+                <type>ex</type>
+                <action>exec FunFollow.txt</action>
+                <alias>unFollow</alias>
+
+            </slot_3>
+            <slot_4>
+                <icon>moun</icon>
+                <type>ex</type>
+                <action>exec Mount.txt</action>
+                <alias>Mount</alias>
+
+            </slot_4>
+            <slot_5>
+                <icon>disen</icon>
+                <type>ex</type>
+                <action>exec FdisEngage.txt</action>
+                <alias>Disengage</alias>
+
+            </slot_5>
+            <slot_8>
+                <icon>Sword</icon>
+                <type>ex</type>
+                <action>exec FaeSavage.txt</action>
+                <alias>Fae SB</alias>
+
+            </slot_8>
+            <slot_9></slot_9>
+            <slot_1>
+                <icon>follow</icon>
+                <type>ex</type>
+                <action>exec FFollow.txt</action>
+                <alias>Follow</alias>
+
+            </slot_1>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3>
+                <icon>white-magic/Curaga</icon>
+                <type>ex</type>
+                <action>exec Echo.txt</action>
+                <alias>Prism Powders</alias>
+
+            </slot_3>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1>
+                <icon>white-magic/Curaga</icon>
+                <type>ex</type>
+                <action>exec antidote.txt</action>
+                <alias>Silent Oil</alias>
+
+            </slot_1>
+
+        </hotbar_2>
+
+    </altcontrols>
+    <carolp>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_4>
+        <name>Carolp</name>
+        <hotbar_1>
+            <slot_2>
+                <icon>songs/Minuet</icon>
+                <type>ex</type>
+                <action>exec Lightcarolp.txt</action>
+                <alias>Light II</alias>
+
+            </slot_2>
+            <slot_7>
+                <icon>songs/Minuet</icon>
+                <type>ex</type>
+                <action>exec Thundercarolp.txt</action>
+                <alias>Thunder II</alias>
+
+            </slot_7>
+            <slot_6>
+                <icon>songs/Minuet</icon>
+                <type>ex</type>
+                <action>exec Darkcarolp.txt</action>
+                <alias>Dark II</alias>
+
+            </slot_6>
+            <slot_1>
+                <icon>songs/Minuet</icon>
+                <type>ex</type>
+                <action>exec Watercarolp.txt</action>
+                <alias>Water II</alias>
+
+            </slot_1>
+            <slot_4>
+                <icon>songs/Minuet</icon>
+                <type>ex</type>
+                <action>exec Firecarolp.txt</action>
+                <alias>Fire II</alias>
+
+            </slot_4>
+            <slot_5>
+                <icon>songs/Minuet</icon>
+                <type>ex</type>
+                <action>exec Windcarolp.txt</action>
+                <alias>Wind II</alias>
+
+            </slot_5>
+            <slot_8>
+                <icon>songs/Minuet</icon>
+                <type>ex</type>
+                <action>exec Stonecarolp.txt</action>
+                <alias>Earth II</alias>
+
+            </slot_8>
+            <slot_9></slot_9>
+            <slot_3>
+                <icon>songs/Minuet</icon>
+                <type>ex</type>
+                <action>exec Icecarolp.txt</action>
+                <alias>Ice II</alias>
+
+            </slot_3>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_2>
+                <icon>songs/Minuet</icon>
+                <type>ex</type>
+                <action>exec FBRD-Schz.txt</action>
+                <alias>Schezro</alias>
+
+            </slot_2>
+            <slot_7>
+                <icon>songs/Minuet</icon>
+                <type>ex</type>
+                <action>exec FBRD-HunterP.txt</action>
+                <alias>Archer</alias>
+
+            </slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5></slot_5>
+            <slot_8>
+                <icon>songs/Minuet</icon>
+                <type>ex</type>
+                <action>exec FBRD-ArcherP.txt</action>
+                <alias>Hunter</alias>
+
+            </slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_2>
+
+    </carolp>
+    <geodindi>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_4>
+        <name>GEODINDI</name>
+        <hotbar_1>
+            <slot_2></slot_2>
+            <slot_7>
+                <icon>songs/Ballad</icon>
+                <type>ex</type>
+                <action>exec INDIwilt.txt</action>
+                <alias>-ATT</alias>
+
+            </slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4>
+                <icon>songs/Ballad</icon>
+                <type>ex</type>
+                <action>exec INDIMalaise.txt</action>
+                <alias>-MDT</alias>
+
+            </slot_4>
+            <slot_5>
+                <icon>songs/Ballad</icon>
+                <type>ex</type>
+                <action>exec INDIFrail.txt</action>
+                <alias>-DEF</alias>
+
+            </slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_2>
+
+    </geodindi>
+    <carols>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_4>
+        <name>Carols</name>
+        <hotbar_1>
+            <slot_2>
+                <icon>songs/Minuet</icon>
+                <type>ex</type>
+                <action>exec Lightcarol.txt</action>
+                <alias>Light II</alias>
+
+            </slot_2>
+            <slot_7>
+                <icon>songs/Minuet</icon>
+                <type>ex</type>
+                <action>exec Thundercarol.txt</action>
+                <alias>Thunder II</alias>
+
+            </slot_7>
+            <slot_6>
+                <icon>songs/Minuet</icon>
+                <type>ex</type>
+                <action>exec Darkcarol.txt</action>
+                <alias>Dark II</alias>
+
+            </slot_6>
+            <slot_1>
+                <icon>songs/Minuet</icon>
+                <type>ex</type>
+                <action>exec Watercarol.txt</action>
+                <alias>Water II</alias>
+
+            </slot_1>
+            <slot_4>
+                <icon>songs/Minuet</icon>
+                <type>ex</type>
+                <action>exec Firecarol.txt</action>
+                <alias>Fire II</alias>
+
+            </slot_4>
+            <slot_5>
+                <icon>songs/Minuet</icon>
+                <type>ex</type>
+                <action>exec Windcarol.txt</action>
+                <alias>Wind II</alias>
+
+            </slot_5>
+            <slot_8>
+                <icon>songs/Minuet</icon>
+                <type>ex</type>
+                <action>exec Stonecarol.txt</action>
+                <alias>Earth II</alias>
+
+            </slot_8>
+            <slot_9></slot_9>
+            <slot_3>
+                <icon>songs/Minuet</icon>
+                <type>ex</type>
+                <action>exec Icecarol.txt</action>
+                <alias>Ice II</alias>
+
+            </slot_3>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_2>
+
+    </carols>
+    <geobuff>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_4>
+        <name>GEOBUFF</name>
+        <hotbar_1>
+            <slot_2></slot_2>
+            <slot_7>
+                <type>ex</type>
+                <action>xb bar geoindi</action>
+                <target>target</target>
+                <alias>Indi</alias>
+                <icon>autoattack</icon>
+
+            </slot_7>
+            <slot_6>
+                <icon>Abilities/Troubadour</icon>
+                <type>ex</type>
+                <action>exec LifecycleB.txt</action>
+                <alias>Heal Luopon</alias>
+
+            </slot_6>
+            <slot_3>
+                <icon>Abilities/Troubadour</icon>
+                <type>ex</type>
+                <action>exec AttritionB.txt</action>
+                <alias>E. Attrition +25%</alias>
+
+            </slot_3>
+            <slot_4>
+                <icon>Abilities/Troubadour</icon>
+                <type>ex</type>
+                <action>exec BlazeB.txt</action>
+                <alias>Blaze of Glory +50%</alias>
+
+            </slot_4>
+            <slot_5>
+                <type>ex</type>
+                <action>exec TargetLuoponB.txt</action>
+                <target>target</target>
+                <alias>Lupon</alias>
+                <icon>autoattack</icon>
+
+            </slot_5>
+            <slot_8>
+                <icon>Abilities/Troubadour</icon>
+                <type>ex</type>
+                <action>exec DematerializeB.txt</action>
+                <alias>-DT Luopon</alias>
+
+            </slot_8>
+            <slot_9></slot_9>
+            <slot_1>
+                <icon>Abilities/Troubadour</icon>
+                <type>ex</type>
+                <action>exec EmanationB.txt</action>
+                <alias>Emanation</alias>
+
+            </slot_1>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_2>
+
+    </geobuff>
+    <geodgeo>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_4>
+        <name>GEODGeo</name>
+        <hotbar_1>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6>
+                <icon>Entrust</icon>
+                <type>ex</type>
+                <action>exec G-malaise.txt</action>
+                <alias>-Magic Def.</alias>
+
+            </slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5>
+                <icon>Entrust</icon>
+                <type>ex</type>
+                <action>exec G-Wilt.txt</action>
+                <alias>-Att.</alias>
+
+            </slot_5>
+            <slot_8>
+                <icon>Entrust</icon>
+                <type>ex</type>
+                <action>exec G-frail.txt</action>
+                <alias>-Def.</alias>
+
+            </slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_2>
+
+    </geodgeo>
+    <coralt>
+        <hotbar_4>
+            <slot_6>
+                <icon>white-magic/Curaga</icon>
+                <type>ex</type>
+                <action>exec Antidote.txt</action>
+                <alias>Antidote</alias>
+
+            </slot_6>
+            <slot_9></slot_9>
+            <slot_7>
+                <icon>white-magic/Curaga</icon>
+                <type>ex</type>
+                <action>exec Echo.txt</action>
+                <alias>Echo Drops</alias>
+
+            </slot_7>
+            <slot_8>
+                <target>me</target>
+                <type>ja</type>
+                <action>Third Eye</action>
+                <alias>Third Eye</alias>
+
+            </slot_8>
+            <slot_5>
+                <target>me</target>
+                <type>ja</type>
+                <action>Seigan</action>
+                <alias>Seigan</alias>
+
+            </slot_5>
+            <slot_3>
+                <icon>Shield</icon>
+                <type>ex</type>
+                <action>exec DRKDT.txt</action>
+                <alias>-Damage Taken</alias>
+
+            </slot_3>
+
+        </hotbar_4>
+        <name>CORALT</name>
+        <hotbar_1>
+            <slot_2>
+                <icon>songs/Ballad</icon>
+                <type>ex</type>
+                <action>exec ECORDOUBLEUP.txt</action>
+                <alias>Double-up</alias>
+
+            </slot_2>
+            <slot_7>
+                <icon>Dice</icon>
+                <type>ex</type>
+                <action>xb bar ROLLS</action>
+                <alias>Corsair Rolls</alias>
+
+            </slot_7>
+            <slot_6>
+                <icon>songs/Ballad</icon>
+                <type>ex</type>
+                <action>exec ECORfold.txt</action>
+                <alias>Fold</alias>
+
+            </slot_6>
+            <slot_3>
+                <icon>songs/Ballad</icon>
+                <type>ex</type>
+                <action>exec ECORSNAKE.txt</action>
+                <alias>Snake eye</alias>
+
+            </slot_3>
+            <slot_4>
+                <icon>songs/Ballad</icon>
+                <type>ex</type>
+                <action>exec ECORBOLTER.txt</action>
+                <alias>Bolter&apos;s Roll</alias>
+
+            </slot_4>
+            <slot_5>
+                <icon>Dice</icon>
+                <type>ex</type>
+                <action>xb bar corja</action>
+                <alias>Job Abilities</alias>
+
+            </slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_1>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_9></slot_9>
+            <slot_7>
+                <target>me</target>
+                <type>ja</type>
+                <action>Dark Seal</action>
+                <alias>Dark Seal</alias>
+
+            </slot_7>
+            <slot_6>
+                <target>t</target>
+                <type>ma</type>
+                <action>Drain III</action>
+                <alias>Drain III</alias>
+
+            </slot_6>
+            <slot_1>
+                <target>me</target>
+                <type>ma</type>
+                <action>Dread Spikes</action>
+                <alias>Dread Spikes</alias>
+
+            </slot_1>
+            <slot_4>
+                <target>me</target>
+                <type>ja</type>
+                <action>Hasso</action>
+                <alias>Hasso</alias>
+
+            </slot_4>
+            <slot_5>
+                <target>me</target>
+                <type>ja</type>
+                <action>Nether Void</action>
+                <alias>Nether Void</alias>
+
+            </slot_5>
+            <slot_8>
+                <target>me</target>
+                <type>ja</type>
+                <action>Last Resort</action>
+                <alias>Last Resort</alias>
+
+            </slot_8>
+            <slot_2>
+                <target>me</target>
+                <type>ma</type>
+                <action>Endark II</action>
+                <alias>Endark II</alias>
+
+            </slot_2>
+            <slot_3>
+                <target>me</target>
+                <type>ja</type>
+                <action>Scarlet Delirium</action>
+                <alias>Scarlet Delirium</alias>
+
+            </slot_3>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_9></slot_9>
+            <slot_7>
+                <type>ex</type>
+                <action>xb bar WSlist</action>
+                <target>target</target>
+                <alias>WeaponSkills</alias>
+                <icon>GS</icon>
+
+            </slot_7>
+            <slot_6>
+                <target>t</target>
+                <type>ma</type>
+                <action>Poison</action>
+                <alias>Poison</alias>
+
+            </slot_6>
+            <slot_1>
+                <type>ex</type>
+                <action>xb bar Swaps</action>
+                <target>target</target>
+                <alias>Equipment</alias>
+                <icon>Swap</icon>
+
+            </slot_1>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Magic</action>
+                <target>target</target>
+                <alias>Magic</alias>
+                <icon>WHME</icon>
+
+            </slot_4>
+            <slot_5>
+                <target>t</target>
+                <type>ma</type>
+                <action>Poisonga</action>
+                <alias>Poisonga</alias>
+
+            </slot_5>
+            <slot_8>
+                <type>ex</type>
+                <action>xb bar JAs</action>
+                <target>target</target>
+                <alias>Job Abilities</alias>
+                <icon>Dice</icon>
+
+            </slot_8>
+            <slot_2>
+                <target>t</target>
+                <type>ja</type>
+                <action>Weapon Bash</action>
+                <alias>Weapon Bash</alias>
+
+            </slot_2>
+            <slot_3>
+                <target>t</target>
+                <type>ma</type>
+                <action>Stun</action>
+                <alias>Stun</alias>
+
+            </slot_3>
+
+        </hotbar_2>
+
+    </coralt>
+    <geoindi>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_4>
+        <name>GEOINDI</name>
+        <hotbar_1>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6>
+                <icon>songs/Ballad</icon>
+                <type>ex</type>
+                <action>exec INDIFURY.txt</action>
+                <alias>Fury</alias>
+
+            </slot_6>
+            <slot_3>
+                <icon>songs/Ballad</icon>
+                <type>ex</type>
+                <action>exec INDIregen.txt</action>
+                <alias>Regen</alias>
+
+            </slot_3>
+            <slot_4>
+                <icon>songs/Ballad</icon>
+                <type>ex</type>
+                <action>exec INDIrefresh.txt</action>
+                <alias>Refresh</alias>
+
+            </slot_4>
+            <slot_5></slot_5>
+            <slot_8>
+                <icon>songs/Ballad</icon>
+                <type>ex</type>
+                <action>exec INDIhaste.txt</action>
+                <alias>Haste</alias>
+
+            </slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_2>
+
+    </geoindi>
+    <geodebuff>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_4>
+        <name>GEODEBUFF</name>
+        <hotbar_1>
+            <slot_2></slot_2>
+            <slot_7>
+                <type>ex</type>
+                <action>xb bar geodindi</action>
+                <target>target</target>
+                <alias>Indi</alias>
+                <icon>autoattack</icon>
+
+            </slot_7>
+            <slot_6>
+                <icon>Abilities/Troubadour</icon>
+                <type>ex</type>
+                <action>exec LifecycleD.txt</action>
+                <alias>Heal Luopon</alias>
+
+            </slot_6>
+            <slot_3>
+                <icon>Abilities/Troubadour</icon>
+                <type>ex</type>
+                <action>exec AttritionD.txt</action>
+                <alias>E. Attrition +25%</alias>
+
+            </slot_3>
+            <slot_4>
+                <icon>Abilities/Troubadour</icon>
+                <type>ex</type>
+                <action>exec BlazeD.txt</action>
+                <alias>Blaze of Glory +50%</alias>
+
+            </slot_4>
+            <slot_5>
+                <type>ex</type>
+                <action>xb bar GEODGeo</action>
+                <target>target</target>
+                <alias>Lupon</alias>
+                <icon>autoattack</icon>
+
+            </slot_5>
+            <slot_8>
+                <icon>Abilities/Troubadour</icon>
+                <type>ex</type>
+                <action>exec DematerializeD.txt</action>
+                <alias>-DT Luopon</alias>
+
+            </slot_8>
+            <slot_9></slot_9>
+            <slot_1>
+                <icon>Abilities/Troubadour</icon>
+                <type>ex</type>
+                <action>exec EmanationD.txt</action>
+                <alias>Emanation</alias>
+
+            </slot_1>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_3></slot_3>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_1></slot_1>
+
+        </hotbar_2>
+
+    </geodebuff>
+    <pianibuff>
+        <hotbar_4>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_4>
+        <name>PianiBuff</name>
+        <hotbar_1>
+            <slot_9></slot_9>
+            <slot_7>
+                <icon>songs/Minuet</icon>
+                <type>ex</type>
+                <action>exec FBRD-Minuet5P.txt</action>
+                <alias>Minuet V</alias>
+
+            </slot_7>
+            <slot_6>
+                <icon>songs/march</icon>
+                <type>ex</type>
+                <action>exec FBRD-VictoryP.txt</action>
+                <alias>Victory</alias>
+
+            </slot_6>
+            <slot_1>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>minne</alias>
+                <icon>autoattack</icon>
+
+            </slot_1>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Mad</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5>
+                <icon>songs/march</icon>
+                <type>ex</type>
+                <action>exec FBRD-AdvanceP.txt</action>
+                <alias>Advancing</alias>
+
+            </slot_5>
+            <slot_8>
+                <icon>songs/Minuet</icon>
+                <type>ex</type>
+                <action>exec FBRD-Minuet4P.txt</action>
+                <alias>Minuet IV</alias>
+
+            </slot_8>
+            <slot_2>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>minne</alias>
+                <icon>autoattack</icon>
+
+            </slot_2>
+            <slot_3>
+                <icon>abilities/call-wyvern</icon>
+                <type>ex</type>
+                <action>exec Haste.txt</action>
+                <alias>Haste</alias>
+
+            </slot_3>
+
+        </hotbar_1>
+        <hotbar_3>
+            <slot_2></slot_2>
+            <slot_7></slot_7>
+            <slot_6></slot_6>
+            <slot_1></slot_1>
+            <slot_4></slot_4>
+            <slot_5></slot_5>
+            <slot_8></slot_8>
+            <slot_9></slot_9>
+            <slot_3></slot_3>
+
+        </hotbar_3>
+        <hotbar_2>
+            <slot_9></slot_9>
+            <slot_7>
+                <icon>songs/Ballad</icon>
+                <type>ex</type>
+                <action>exec BalladIIIp.txt</action>
+                <alias>Ballad III</alias>
+
+            </slot_7>
+            <slot_6>
+                <icon>songs/Speed</icon>
+                <type>ex</type>
+                <action>exec FBRD-Speed.txt</action>
+                <alias>Mazurka</alias>
+
+            </slot_6>
+            <slot_1>
+                <icon>songs/Dummy</icon>
+                <type>ex</type>
+                <action>exec FBRD-DummyIIIP.txt</action>
+                <alias>Minuet II Dummy</alias>
+
+            </slot_1>
+            <slot_4>
+                <type>ex</type>
+                <action>xb bar Main</action>
+                <target>target</target>
+                <alias>Back to Main</alias>
+                <icon>autoattack</icon>
+
+            </slot_4>
+            <slot_5>
+                <icon>songs/Ballad</icon>
+                <type>ex</type>
+                <action>exec Balladp.txt</action>
+                <alias>Ballad</alias>
+
+            </slot_5>
+            <slot_8>
+                <icon>songs/Ballad</icon>
+                <type>ex</type>
+                <action>exec BalladIIP.txt</action>
+                <alias>Ballad II</alias>
+
+            </slot_8>
+            <slot_2>
+                <icon>songs/Dummy</icon>
+                <type>ex</type>
+                <action>exec FBRD-DummyIIP.txt</action>
+                <alias>Dummy II</alias>
+
+            </slot_2>
+            <slot_3></slot_3>
+
+        </hotbar_2>
+
+    </pianibuff>
+
+</hotbar>
